@@ -1,3 +1,19 @@
+# THIS PROJECT IS DEAD. FOLLOWUP [HERE](https://developers.minicraft2.ga/miguel456/BoNeMEAL) for updates, fixed bugs and new featues.
+### I won't be changing the project's name nor it's license.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # BoNeMEAL
 **Managing a Minecraft server is hard. Punishing players for misbehaviour shouldn't be.**
 
@@ -7,6 +23,8 @@ The **b**a**n** **m**anagement w**e**b **a**pp**l**ication (BoNeMEAL) makes it e
 
 This project was started to offer an alternative or even a possible replacement for the clumsy "BanManager WebUI".
 BoNeMEAL is built with Laravel 5 together with tons of other awesome tools, frameworks and libraries such as Composer, gulp.js, Bootstrap, jQuery etc.
+
+This project has been abandoned by the original author and as such I will be picking up on it. However, I won't be doing it on Github.
 
 # [Wiki](https://github.com/ftbastler/BoNeMEAL/wiki)
 
