@@ -1,5 +1,6 @@
 # THIS PROJECT IS DEAD. FOLLOWUP [HERE](https://developers.minicraft2.ga/miguel456/BoNeMEAL) for updates, fixed bugs and new featues.
 ### I won't be changing the project's name nor it's license.
+### You can go watch me code live [here](https://ide.c9.io/miguel456/bonemeal). Changes in this environment will be pushed to the aforementioned repository, while releases will be published here.
 
 
 
